@@ -1,2 +1,2 @@
 #Command line password manager
-_______________--
+_______________
